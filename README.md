@@ -6,9 +6,9 @@ Internship task for CODSOFT
 - Task 2 - Grade Calculator
 
 ## Demo
-[🔗TASK 1 ][(https://www.linkedin.com/posts/md-navil-ahmad-b18724227_connections-codsoft-internship-activity-7118638992874438656-GSVM?utm_source=share&utm_medium=member_desktop)
+[🔗TASK 1 ](https://www.linkedin.com/posts/md-navil-ahmad-b18724227_connections-codsoft-internship-activity-7118638992874438656-GSVM?utm_source=share&utm_medium=member_desktop)
 
-[🔗TASK 2 ][(https://www.linkedin.com/posts/md-navil-ahmad-b18724227_connections-javaprogramming-codsoft-activity-7120600923629850624-Cfh0?utm_source=share&utm_medium=member_desktop)
+[🔗TASK 2 ](https://www.linkedin.com/posts/md-navil-ahmad-b18724227_connections-javaprogramming-codsoft-activity-7120600923629850624-Cfh0?utm_source=share&utm_medium=member_desktop)
 
 ## Appendix
 
