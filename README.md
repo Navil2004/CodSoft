@@ -4,11 +4,15 @@ Internship task for CODSOFT
 ## Description 
 - Task 1 - Number Game
 - Task 2 - Grade Calculator
+- Task 3 - Atm InterFace
 
 ## Demo
-[🔗TASK 1 ](https://www.linkedin.com/posts/md-navil-ahmad-b18724227_connections-codsoft-internship-activity-7118638992874438656-GSVM?utm_source=share&utm_medium=member_desktop)
+[🔗TASK 1 ][(https://www.linkedin.com/posts/md-navil-ahmad-b18724227_connections-codsoft-internship-activity-7118638992874438656-GSVM?utm_source=share&utm_medium=member_desktop)]
 
-[🔗TASK 2 ](https://www.linkedin.com/posts/md-navil-ahmad-b18724227_connections-javaprogramming-codsoft-activity-7120600923629850624-Cfh0?utm_source=share&utm_medium=member_desktop)
+[🔗TASK 2 ][(https://www.linkedin.com/posts/md-navil-ahmad-b18724227_connections-javaprogramming-codsoft-activity-7120600923629850624-Cfh0?utm_source=share&utm_medium=member_desktop)]
+
+[🔗TASK 3 ][(https://www.linkedin.com/posts/md-navil-ahmad-b18724227_connections-codsoft-activity-7122070916171202560-2JoQ?utm_source=share&utm_medium=member_desktop)]
+
 
 ## Appendix
 
